@@ -4,7 +4,15 @@
   year: Nov, 2018 &mdash; Jul, 2020
   awards:
     - award:
-  summary: Management of end-point protection solutions, System security (protocols, standards, architectures), networking and network design, management of Microsoft operating systems and networks both client and server, Linux operating systems management and virtualization solutions, CTF, OSINT, Forensic data analysis, Vulnerability Assessment, Penetration Testing
+  summary: -Management of end-point protection solutions
+  -System security (protocols, standards, architectures)
+  -Networking and network design
+  -Management of Microsoft operating systems and networks both client and server
+  -Linux operating systems management and virtualization solutions
+  -CTF
+  -OSINT
+  -Forensic data analysis
+  -Vulnerability Assessment and Penetration Testing
 
 - degree: High School Diploma
   uni: Liceo Scientifico Baldessano-Roccati
