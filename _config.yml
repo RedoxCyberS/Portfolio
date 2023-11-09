@@ -17,11 +17,11 @@ resume_title:                   "Cybersecurity Analyst"
 resume_contact_email:           "insertemail@gmail.com"
 
 # the next two items are used for schema itemprops in _layouts/resume.html
-resume_contact_telephone:       "555-7334"
-resume_contact_address:         "742 Evergreen Terrace, Springfield"
+# resume_contact_telephone:       "555-7334"
+# resume_contact_address:         "742 Evergreen Terrace, Springfield"
 
-resume_header_contact_info:     "742 Evergreen Terrace, Springfield • 555-7334 • lisasimpson@youremailaddress.com"
-display_header_contact_info:    "false"
+# resume_header_contact_info:     "742 Evergreen Terrace, Springfield • 555-7334 • lisasimpson@youremailaddress.com"
+# display_header_contact_info:    "false"
 
 resume_header_intro: "<p>I am an experienced cyber security analyst specializing in cyber threat intelligence. With a solid understanding of the latest security threats and trends, I am able to proactively identify and mitigate potential risks to ensure the safety of digital assets. In my free time, I enjoy gaming, following motorsport events, and playing music.</p>"
 
